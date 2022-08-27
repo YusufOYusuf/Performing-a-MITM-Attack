@@ -11,6 +11,7 @@ In this lab, I learned to perform a MITM attack. MITM (man-in-the-middle) is an 
 
 - <b>Windows Server 2016 Standard</b> 
 - <b>Linux VNC-Viewer</b>
+- <b>Windows 8 Remote Desktop</b>
 - <b>Terminal</b>
 
 <h2>Program walk-through:</h2>
